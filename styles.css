@@ -28,7 +28,7 @@ main {
     align-items: center;
     width: 100vw;
     height: 150px;
-    background: black url(/Images/Background1.webp) no-repeat;
+    background: black url(images/Background1.webp) no-repeat;
     margin: 0;
     padding: 0;
 }
